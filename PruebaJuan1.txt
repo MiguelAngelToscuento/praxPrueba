@@ -1,5 +1,1 @@
-El ESP32 es un micirprocesador de 30 pines :) llllolollo
-nblnlnk
-PILIN 
-dekendiediejdijedjeij
-dbjwbdwdiwdi
+El ESP32 es un micirprocesador de 30 pines
